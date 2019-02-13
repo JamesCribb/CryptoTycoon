@@ -1,0 +1,15 @@
+E:\Repositories\CryptoTycoon\CryptoTycoon\bin\Debug\DrugLord2.2.exe.config
+E:\Repositories\CryptoTycoon\CryptoTycoon\bin\Debug\DrugLord2.2.exe
+E:\Repositories\CryptoTycoon\CryptoTycoon\bin\Debug\DrugLord2.2.pdb
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.csprojAssemblyReference.cache
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.BlackMarketForm.resources
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.BuySellForm.resources
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.FightForm.resources
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.GameForm.resources
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.HospitalForm.resources
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.Properties.Resources.resources
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.TravelForm.resources
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.csproj.GenerateResource.cache
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\CryptoTycoon.csproj.CoreCompileInputs.cache
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\DrugLord2.2.exe
+E:\Repositories\CryptoTycoon\CryptoTycoon\obj\Debug\DrugLord2.2.pdb
